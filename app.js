@@ -31,16 +31,16 @@ menu_item.forEach((item) => {
   });
 });
 
-const num = 31;
+// const num = 31;
 
-for (let i = 1; i < num; i++) {
-  if (i % 15 === 0) {
-    console.log(i, "FIZZ BUZZ");
-  } else if (i % 5 === 0) {
-    console.log(i, "BUZZ");
-  } else if (i % 3 === 0) {
-    console.log(i, "FIZZ ");
-  } else {
-    console.log(i);
-  }
-}
+// for (let i = 1; i < num; i++) {
+//   if (i % 15 === 0) {
+//     console.log(i, "FIZZ BUZZ");
+//   } else if (i % 5 === 0) {
+//     console.log(i, "BUZZ");
+//   } else if (i % 3 === 0) {
+//     console.log(i, "FIZZ ");
+//   } else {
+//     console.log(i);
+//   }
+// }
